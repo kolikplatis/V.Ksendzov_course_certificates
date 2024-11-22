@@ -5,4 +5,5 @@
 - **[Git](https://drive.google.com/file/d/1sA7L5f9xFeolnWzG8cRnLhpY2nPo99sm/view?usp=sharing)**  
 - **[Client-Server](https://drive.google.com/file/d/1_n5-CvpHZ0cnZYBq3pVTWt4sS8lPjBqd/view?usp=sharing)**  
 - **[Postman](https://drive.google.com/file/d/142kg9ovHFATDEgzAeU6YweUYErz07zZB/view?usp=sharing)**
+- **[SQL](https://drive.google.com/file/d/1t6rUiKGfkHvs2pPXgHrzv0zblCmmwFBZ/view?usp=sharing)**
 
